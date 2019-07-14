@@ -1,0 +1,32 @@
+.song {
+  background-color: #eee;
+  padding: 10px;
+  width: 300px;
+}
+
+.song:hover {
+  cursor: pointer;
+  border: 2px rgb(252, 168, 42) solid;
+}
+
+.song hr {
+  color: #ddd;
+}
+
+.song span {
+  display: inline-block;
+  margin: auto;
+  word-wrap: break-word;
+  font-size: 13px;
+  font-weight: 380;
+}
+
+.song label {
+  font-size: 14px;
+  font-weight: 550;
+}
+
+.song img {
+  margin: 2px;
+  border: 3px #222 solid;
+}

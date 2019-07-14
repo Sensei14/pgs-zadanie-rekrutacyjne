@@ -1,0 +1,26 @@
+.results {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-template-rows: auto;
+  grid-column-gap: 0;
+  grid-row-gap: 25px;
+  justify-items: center;
+}
+
+.results > .song {
+  display: inline-flex;
+}
+
+.content button {
+  background-color: rgb(247, 148, 29);
+  border-radius: 15px;
+  padding: 5px 15px;
+  color: white;
+  margin: 35px 7px;
+  border: 0;
+}
+
+.content button:hover {
+  background-color: rgb(220, 120, 10);
+  cursor: pointer;
+}

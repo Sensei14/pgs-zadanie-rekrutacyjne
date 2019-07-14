@@ -1,0 +1,43 @@
+.footer {
+  background-color: #2d2d2d;
+  color: white;
+  padding: 10px;
+  position: absolute;
+  height: 55px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.footer h3 {
+  font-size: 18px;
+  font-weight: 200;
+  letter-spacing: 0.5px;
+}
+
+.footer span {
+  display: inline-block;
+  position: relative;
+}
+
+.footer span:before {
+  right: 100%;
+  margin-right: 15px;
+  position: absolute;
+  height: 50%;
+  border-bottom: 1px solid #bbb;
+  top: 0;
+  width: 40%;
+  content: "";
+}
+
+.footer span:after {
+  left: 100%;
+  margin-left: 15px;
+  position: absolute;
+  border-bottom: 1px solid #bbb;
+  top: 0;
+  width: 40%;
+  content: "";
+  height: 50%;
+}

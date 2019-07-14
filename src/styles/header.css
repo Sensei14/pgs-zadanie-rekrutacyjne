@@ -1,0 +1,42 @@
+.header {
+  grid-area: h;
+  background-color: #2d2d2d;
+  color: white;
+  padding: 10px;
+}
+
+.header p {
+  font-size: 14px;
+  color: #ddd;
+}
+
+.songForm {
+  display: inline-flex;
+  height: 40px;
+  margin: 10px;
+}
+
+.songForm input {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  height: 100%;
+  border: 0;
+  padding: 0 20px;
+  background-color: #eee;
+}
+
+.songForm button {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  height: 100%;
+  background-color: orange;
+  border: 0;
+  color: white;
+  width: 100%;
+  padding: 0 18px;
+}
+
+.songForm button:hover {
+  background-color: rgb(226, 147, 0);
+  cursor: pointer;
+}
