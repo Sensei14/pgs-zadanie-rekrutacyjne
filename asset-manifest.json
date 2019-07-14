@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pgs-zadanie-rekrutacyjne/static/css/main.723add58.chunk.css",
-    "main.js": "/pgs-zadanie-rekrutacyjne/static/js/main.511a5c18.chunk.js",
-    "main.js.map": "/pgs-zadanie-rekrutacyjne/static/js/main.511a5c18.chunk.js.map",
+    "main.js": "/pgs-zadanie-rekrutacyjne/static/js/main.548145f5.chunk.js",
+    "main.js.map": "/pgs-zadanie-rekrutacyjne/static/js/main.548145f5.chunk.js.map",
     "runtime~main.js": "/pgs-zadanie-rekrutacyjne/static/js/runtime~main.71ab837a.js",
     "runtime~main.js.map": "/pgs-zadanie-rekrutacyjne/static/js/runtime~main.71ab837a.js.map",
     "static/js/2.d16ba94f.chunk.js": "/pgs-zadanie-rekrutacyjne/static/js/2.d16ba94f.chunk.js",
     "static/js/2.d16ba94f.chunk.js.map": "/pgs-zadanie-rekrutacyjne/static/js/2.d16ba94f.chunk.js.map",
     "index.html": "/pgs-zadanie-rekrutacyjne/index.html",
-    "precache-manifest.c921c9b3af5c4c3029eb0dc185ebf656.js": "/pgs-zadanie-rekrutacyjne/precache-manifest.c921c9b3af5c4c3029eb0dc185ebf656.js",
+    "precache-manifest.7c4f08a8bf8243c34a6b285f682b64f3.js": "/pgs-zadanie-rekrutacyjne/precache-manifest.7c4f08a8bf8243c34a6b285f682b64f3.js",
     "service-worker.js": "/pgs-zadanie-rekrutacyjne/service-worker.js",
     "static/css/main.723add58.chunk.css.map": "/pgs-zadanie-rekrutacyjne/static/css/main.723add58.chunk.css.map"
   }
