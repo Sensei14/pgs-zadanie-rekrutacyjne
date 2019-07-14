@@ -22,9 +22,11 @@ class App extends Component {
   handleSearch = e => {
     e.preventDefault();
 
-    const url = `https://itunes.apple.com/search?term=${
-      this.state.searchPhrase
-    }&entity=song&limit=200`;
+    //Dodano, aby uniknąć błędu na gh-pages. Przy zapytaniu CORS nie działały małe literki 'a', 'd', pusty string.
+    let searchPhrase = this.state.searchPhrase.toUpperCase();
+    if (searchPhrase === "") searchPhrase = " ";
+
+    let url = `https://itunes.apple.com/search?term=${searchPhrase}&entity=song&limit=200`;
 
     fetch(url)
       .then(response => response.json())
