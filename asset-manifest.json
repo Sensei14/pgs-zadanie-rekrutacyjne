@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pgs-zadanie-rekrutacyjne/static/css/main.d74d974d.chunk.css",
+    "main.css": "/pgs-zadanie-rekrutacyjne/static/css/main.723add58.chunk.css",
     "main.js": "/pgs-zadanie-rekrutacyjne/static/js/main.e1250a42.chunk.js",
     "main.js.map": "/pgs-zadanie-rekrutacyjne/static/js/main.e1250a42.chunk.js.map",
     "runtime~main.js": "/pgs-zadanie-rekrutacyjne/static/js/runtime~main.71ab837a.js",
@@ -8,8 +8,8 @@
     "static/js/2.d16ba94f.chunk.js": "/pgs-zadanie-rekrutacyjne/static/js/2.d16ba94f.chunk.js",
     "static/js/2.d16ba94f.chunk.js.map": "/pgs-zadanie-rekrutacyjne/static/js/2.d16ba94f.chunk.js.map",
     "index.html": "/pgs-zadanie-rekrutacyjne/index.html",
-    "precache-manifest.f61ec3310752b5424dba142c3f770c43.js": "/pgs-zadanie-rekrutacyjne/precache-manifest.f61ec3310752b5424dba142c3f770c43.js",
+    "precache-manifest.a7b27781032e7ff4f4b0726682ca1004.js": "/pgs-zadanie-rekrutacyjne/precache-manifest.a7b27781032e7ff4f4b0726682ca1004.js",
     "service-worker.js": "/pgs-zadanie-rekrutacyjne/service-worker.js",
-    "static/css/main.d74d974d.chunk.css.map": "/pgs-zadanie-rekrutacyjne/static/css/main.d74d974d.chunk.css.map"
+    "static/css/main.723add58.chunk.css.map": "/pgs-zadanie-rekrutacyjne/static/css/main.723add58.chunk.css.map"
   }
 }
