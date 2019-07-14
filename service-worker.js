@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pgs-zadanie-rekrutacyjne/precache-manifest.74531068f36a2d9cdf9bd28e0945277a.js"
+  "/pgs-zadanie-rekrutacyjne/precache-manifest.34190eca97f9cbe066b52d5d4b69480e.js"
 );
 
 self.addEventListener('message', (event) => {

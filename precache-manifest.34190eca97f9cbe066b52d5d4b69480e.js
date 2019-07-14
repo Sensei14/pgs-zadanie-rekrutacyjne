@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0bc261899b422f78a1649f1ea3aef4b",
+    "revision": "6d24b9a34f67029e0425a926747b13fa",
     "url": "/pgs-zadanie-rekrutacyjne/index.html"
   },
   {
-    "revision": "e80bf221462ecd236860",
+    "revision": "6df5760daad14990e27a",
     "url": "/pgs-zadanie-rekrutacyjne/static/css/main.723add58.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pgs-zadanie-rekrutacyjne/static/js/2.d16ba94f.chunk.js"
   },
   {
-    "revision": "e80bf221462ecd236860",
-    "url": "/pgs-zadanie-rekrutacyjne/static/js/main.92727b5a.chunk.js"
+    "revision": "6df5760daad14990e27a",
+    "url": "/pgs-zadanie-rekrutacyjne/static/js/main.83e449cb.chunk.js"
   },
   {
     "revision": "438f0b511fa6307934c9",
